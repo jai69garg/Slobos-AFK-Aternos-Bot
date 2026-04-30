@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GareebSMP_SPS.aternos.me:38944",
+    "port": 38944,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 90,
+    "y": 62,
+    "z": -114
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Join Discord!",
         "I like to play Minecraft!"
       ]
     },
