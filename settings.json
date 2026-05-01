@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GareebSMP_SPS.aternos.me:38944",
+    "ip": "GareebSMP_SPS.aternos.me",
     "port": 38944,
     "version": "",
     "try-creative": false
